@@ -1,0 +1,2 @@
+# MavenManually
+Projekt dodany ręcznie
